@@ -1,0 +1,1 @@
+// Replace TypeScript interface with JavaScript object structure 
