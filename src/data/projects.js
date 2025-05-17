@@ -10,8 +10,8 @@ export const projects = [
     description: "A minimalist and elegant portfolio built with React, JavaScript, Tailwind CSS, and Framer Motion. Features dark mode, smooth animations, and responsive design.",
     technologies: ["React","Vite", "JavaScript","HTML", "Tailwind CSS"],
     image: portfolioImage,
-    link: "https://adityamohod.dev",
-    repoLink: "https://github.com/adityamohod/portfolio",
+    link: "https://mohodaditya.github.io/Personal-Portfolio/",
+    repoLink: "https://github.com/mohodaditya/Personal-Portfolio.git",
   },
   {
     id: 2,
