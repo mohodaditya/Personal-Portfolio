@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 import { ArrowDown, Download } from 'lucide-react';
+import Resume from '/assets/projects/Aditya Mohod RESUME.pdf';
 
 const HeroSection = () => {
   return (
@@ -77,7 +78,7 @@ const HeroSection = () => {
               About Me
             </a>
             <motion.a
-              href="/public/assets/projects/Aditya Mohod RESUME.pdf"
+              href={Resume}
               download="Aditya_Mohod_Resume.pdf"
               className="btn btn-outline flex items-center gap-2"
               whileHover={{ scale: 1.05 }}
